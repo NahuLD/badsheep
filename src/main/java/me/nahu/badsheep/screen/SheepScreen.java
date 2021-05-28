@@ -69,7 +69,7 @@ public class SheepScreen implements Screen {
     private void build() {
         for (int index = 0; index < pixels.length; index++) {
             var location = center.clone();
-            var offset = new Vector(index % width, index / width, index % width)
+            var offset = new Vector(0, index / width, index % width)
                 .multiply(0.8); // sheep width, kinda
             location.add(offset);
 
