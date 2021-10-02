@@ -8,8 +8,8 @@ Further development needed.
 
 ### Requirements
 
-- Java 11 (or higher)
-- Paper 1.16.5 (or latest)
+- Java 16 (or higher)
+- Paper 1.17.1 (or latest)
 
 ### License
 
