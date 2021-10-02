@@ -55,7 +55,7 @@ repositories {
 }
 
 dependencies {
-    compileOnly("org.spigotmc:spigot-api:1.16.5-R0.1-SNAPSHOT")
+    compileOnly("io.papermc.paper:paper-api:1.17.1-R0.1-SNAPSHOT")
     compileOnly("org.jetbrains:annotations:20.1.0")
     implementation("co.aikar:acf-bukkit:0.5.0-SNAPSHOT")
     implementation("org.jcodec:jcodec:0.2.5")
